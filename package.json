@@ -1,0 +1,24 @@
+{
+  "name": "logomaker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Luis6400/LogoMaker.git"
+  },
+  "author": "",
+  "keywords": [],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Luis6400/LogoMaker/issues"
+  },
+  "homepage": "https://github.com/Luis6400/LogoMaker#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "jest": "^29.5.0"
+  }
+}
